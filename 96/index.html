@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Page 96</title>
+    <script src="//cdn.jsdelivr.net/lining.js/0.3.2/lining.min.js"></script>
+    <script>
+        var text = document.getElementById('text');
+        var textLining = lining(text, {
+                             'autoResize': true,
+                             'lineClass': 'line'
+                         });
+    </script>
+    <style>
+    body {
+      box-sizing:border-box;
+      text-align:justify;
+      margin:0;
+      font-family: "Palatino Roman", "Palatino", "Palatino Linotype",
+        serif;
+      display: -webkit-flex;
+      -webkit-flex-direction: row;
+      -webkit-flex-wrap: wrap;
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      height: 100vh;
+      align-items: center;
+      background: rgba(240,240,200, .5);
+    }
+    p {
+      margin-bottom:0;
+      margin-top:0;
+    }
+
+    p em {
+      color: red;
+      text-transform: uppercase;
+      font-style:normal;
+    }
+
+    em:before {
+      content: "☛";
+      color: black;
+      font-size: 24pt;
+    }
+
+    .line {
+      display:block;
+      text-align:justify;
+      text-align-last:justify;
+      line-height: 2;
+      margin-left: 10vw;
+      margin-right: 10vw;
+      width: 80vw;
+      box-sizing: border-box;
+    }
+    .line:after {
+      content: ' ';
+      display: table;
+      width: 100%;
+      height:1px;
+    }
+
+    .line:nth-child(1) {
+      font-size: 8pt;
+    }
+    .line:nth-child(2) {
+      font-size: 9pt;
+    }
+    .line:nth-child(3) {
+      font-size: 10pt;
+}
+    .line:nth-child(4) {
+      font-size: 12pt;
+    }
+    .line:nth-child(5) {
+      font-size: 14pt;
+    }
+    .line:nth-child(6) {
+      font-size: 16pt;
+    }
+    .line:nth-child(7) {
+      font-size: 18pt;
+    }
+    .line:nth-child(8) {
+      font-size: 20pt;
+    }
+    .line:nth-child(9) {
+      font-size: 22pt;
+    }
+
+    p:nth-child(2) {
+      font-size: 24pt;
+      color: red;
+      width: 80vw;
+      margin-left: 10vw;
+      margin-right: 10vw;
+      width: 80vw;
+      box-sizing: border-box;
+      text-align: justify;
+      text-align-last:justify;
+    }
+    p:nth-child(2):after {
+      content: ' ';
+      display: table;
+      width: 100%;
+      height:1px;
+    }
+
+    </style>
+  </head>
+  <body>
+    <p id="text" data-lining data-auto-resize><em>D. Berkeley Updike:</em> In
+    every period there have been better of worse types employed in better or
+    worse ways. The better types employed in better ways have been used by the
+    educated printer acquainted with standards and history, directed by taste
+    and a sense of fitness of things, and facing the industrial conditions and
+    the needs of his time. Such men have made of printing an art. The poorer
+    types and methods have been employed by printers ignorant of standards and
+    caring alone for commercial success. To these, printing has been simply a
+    trade. The typography of a nation has been good or bad, as one or other of
+    these classes had the supre-macy. And to-day any intelligent printer can
+    educate his taste, so to choose types for his work &amp; so to use them,
+    that he will help printing to be an art rather than a trade.</p>
+    <p>ABDCEFGHIJKLMNOPQRSTUVWXYZ</p>
+  </body>
+</html>
