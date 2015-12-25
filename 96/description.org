@@ -1,0 +1,30 @@
+#+TITLE: An Org Description of Zapf 96
+#+AUTHOR: James P. Ascher
+#+EMAIL: jpa4q@virginia.edu
+
+* Description
+  "Experiment in setting text in sizes 8 point through 24 point of the
+  same font. Text starting with a fist. Palatino Roman." Text also
+  appears to be leaded increasingly more between lines (roughly
+  doubling in size). Visually the text moves smoothly between small
+  and large, the pointing finger appears to be on a larger body than
+  the line of text it points to (roughly 2 lines in height). The word
+  "supremacy" is hyphenated between lines.
+* Text Content
+  D. Berkeley Updike: In every period there have been better of worse
+    types employed in better or worse ways. The better types employed
+    in better ways have been used by the educated printer acquainted
+    with standards and history, directed by taste and a sense of
+    fitness of things, and facing the industrial conditions and the
+    needs of his time. Such men have made of printing an art. The
+    poorer types and methods have been employed by printers ignorant
+    of standards and caring alone for commercial success. To these,
+    printing has been simply a trade. The typography of a nation has
+    been good or bad, as one or other of these classes had the
+    supremacy. And to-day any intelligent printer can educate his
+    taste, so to choose types for his work & so to use them, that he
+    will help printing to be an art rather than a
+    trade. ABCDEFGHIJKLMNOPQRSTUVWXYZ
+* Rendering
+  - D. Berkeley Updike ] D. BERKELEY UPDIKE [red]
+  - ABCDEFGHIJKLMNOPQRSTUVWXYZ ] ~ [red]

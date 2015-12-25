@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Page 96</title>
+                <author>D.B. Updike</author>
+                <respStmt>
+                    <resp>Encoded in TEI-Lite by</resp>
+                    <name>James P. Ascher</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Created as part of the collaborative ZapfLayout Projects.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Hermann Zapf</author>
+                    <title>Manuale typographicum</title>
+                    <pubPlace>Cambridge, Mass.</pubPlace>
+                    <publisher>MIT Press</publisher>
+                    <biblScope unit="page">96</biblScope>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p>This transcription focuses on the text as aesthetic
+                object, identifying formatting apparently intended by
+                Hermann Zapf, retaining hyphenation and line breaks,
+                but ignoring the relationship to the entire book. The
+                rendering attributes are made without reference to any
+                standards and the sizes may not be anywhere near correct.</p>
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p rend="proportionallyLeaded">
+               <hi rend="2lineInitial">☛</hi> <hi rend="size8"><label
+               rend="red uppercase"><name type="person">D. Berkeley
+               Updike:</name></label> In every period there have been
+               better of worse types employed in better or worse
+               ways. The better types</hi><lb/> <hi
+               rend="size10">employed in better ways have been used by
+               the educated printer acquainted with standards and
+               history, directed by taste and a sense</hi><lb/> <hi
+               rend="size12">of fitness of things, and facing the
+               industrial conditions and the needs of his time. Such
+               men have made of printing</hi><lb/> <hi
+               rend="size14">an art. The poorer types and methods have
+               been employed by printers ignorant of standards and
+               caring</hi><lb/> <hi rend="size16">alone for commercial
+               success. To these, printing has been simply a
+               trade. The typography</hi><lb/> <hi rend="size18">of a
+               nation has been good or bad, as one or other of these
+               classes had the supre-</hi><lb/><hi
+               rend="size20">macy. And to-day any intelligent printer
+               can educate his taste, so to</hi><lb/><hi
+               rend="size22">choose types for his work &amp; so to use
+               them, that he will</hi><lb/><hi rend="size24">help
+               printing to be an art rather than a trade.</hi><lb/><hi
+               rend="red size24">ABCDEFGHIJKLMNOPQRSTUVWXYZ</hi>
+            </p>
+        </body>
+    </text>
+</TEI>
